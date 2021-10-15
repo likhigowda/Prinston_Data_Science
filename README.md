@@ -1,1 +1,2 @@
-# Prinston_Data_Science
+# Prinston Data Science
+Data science projects on machine learning.
